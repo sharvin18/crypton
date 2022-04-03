@@ -1,7 +1,7 @@
 import { HiMenuAlt4 } from 'react-icons/hi';
 import { AiOutlineClose } from 'react-icons/ai';
 import { useState  } from 'react';
-// import logo from '../../images/images/logo.png';
+// import logo from '../../assets/images/logo.png';
 
 const NavbarItem = ({ title, classProps }) => {
 
